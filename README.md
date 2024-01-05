@@ -1,4 +1,4 @@
-# ![WebApp](https://imgur.com/BOlAquO)
+# ![WebApp](https://i.imgur.com/BOlAquO.png)
 # AmandaPodologia
 
 <table>
