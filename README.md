@@ -1,4 +1,4 @@
-# ![WebApp](https://prnt.sc/PC590NjglZ5s)
+# ![WebApp](https://imgur.com/BOlAquO)
 # AmandaPodologia
 
 <table>
