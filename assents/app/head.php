@@ -1,5 +1,6 @@
 <?php 
 #Importando Sistema de Segurança
+include($flow.'assents/app/XWnDaMdznuRJ9NaDU3GD/import_sec_stack.php');
 
 #Alert system
 include($flow.'assents/app/alert.php');

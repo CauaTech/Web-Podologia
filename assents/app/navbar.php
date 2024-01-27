@@ -13,9 +13,14 @@
 				<a href="#inicio" class="item_nav">Inicio</a>
 		    	<a href="#servico" class="item_nav">Tratamento e Serviços</a>
 		    	<a href="#footer" class="item_nav">Contato</a>
+		    	<a href="<?php echo $flow ?>duvidas/" class="item_nav">Duvidas</a>
 		    	<a href="https://api.whatsapp.com/send?phone=41997312878&text=Gostaria de agendar uma consulta." class="item_nav btn btn-stack">
 		    		<i class="fi fi-brands-whatsapp"></i>
 		    		Agendamento
+		    	</a>
+		    	<a href="<?php echo $flow ?>agendamento/" class="item_nav btn btn-stack">
+		    		<i class="fa-regular fa-pen-to-square"></i>
+		    		Auto Agendamento
 		    	</a>
 	    	</ul>
 	    </div>
@@ -43,5 +48,6 @@
 	.btn-stack{
 		color: #fff;
 		background-color: #C09DA1;
+		margin-left: 5px;
 	}
 </style>

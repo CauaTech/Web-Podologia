@@ -1,0 +1,1 @@
+[08-Jan-2023 11:45:25 America/Sao_Paulo] PHP Warning:  Unknown: output handler 'ob_gzhandler' conflicts with 'zlib output compression' in Unknown on line 0

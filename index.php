@@ -62,9 +62,9 @@ if ($int == 0) {
 					<div class="podologia-header-item">
 						<h2 class="color-podologia">Marque agora sua consulta</h2>
 						<p>Nossa equipe pode ajudar com uma variedade de problemas nos pés para ajudá-lo a se sentir melhor e voltar às suas atividades favoritas mais cedo.</p>
-						<a href="https://api.whatsapp.com/send?phone=41997312878&text=Gostaria de agendar uma consulta." class="item_nav btn btn-stack" class="btn btn-stack">
-				    		<i class="fi fi-brands-whatsapp"></i>
-				    		Agendamento
+						<a href="<?php echo $flow ?>agendamento/" class="item_nav btn btn-stack">
+				    		<i class="fa-regular fa-pen-to-square"></i>
+				    		Auto Agendamento
 				    	</a>
 					</div>
 				</center>
