@@ -14,4 +14,4 @@
 <br>
 - Login Simples: Interface intuitiva para o login de usuários.<br>
 - Gerenciar Pacientes: Cadastrar e salvar pacientes.<br>
-- Fácil Implementação: Código claro e organizado para facilitar a integração.<br>
+- Sistema de Agenda: Sistema completo de Agenda.<br>
