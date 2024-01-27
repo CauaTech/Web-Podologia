@@ -15,3 +15,4 @@
 - Login Simples: Interface intuitiva para o login de usuários.<br>
 - Gerenciar Pacientes: Cadastrar e salvar pacientes.<br>
 - Sistema de Agenda: Sistema completo de Agenda.<br>
+- Sistema tem diversos recursos ativos para facilitar nosso cliente.<br>
