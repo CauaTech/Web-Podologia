@@ -11,6 +11,8 @@
   </div>
 <hr>
 
+<h5>PRojeto esta pronto 70%</h5>
+
 <h6>Funcionalidades</h6>
 <br>
 - Login Simples: Interface intuitiva para o login de usuários.<br>
