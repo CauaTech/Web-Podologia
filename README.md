@@ -11,7 +11,7 @@
   </div>
 <hr>
 
-<h5>PRojeto esta pronto 94%</h5>
+<h5>PRojeto esta pronto 95%</h5>
 
 <h6>Funcionalidades</h6>
 <br>
